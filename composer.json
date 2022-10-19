@@ -31,6 +31,6 @@
     ]
   },
   "bin": [
-    "bin/analytics"
+    "bin/analytics-rudderstack"
   ]
 }
